@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  wallet_address: MyString
+  role: MyString
+
+two:
+  wallet_address: MyString
+  role: MyString
